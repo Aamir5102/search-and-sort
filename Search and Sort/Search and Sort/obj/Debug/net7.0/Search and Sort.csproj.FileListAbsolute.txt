@@ -1,0 +1,15 @@
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/bin/Debug/net7.0/Search and Sort
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/bin/Debug/net7.0/Search and Sort.deps.json
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/bin/Debug/net7.0/Search and Sort.runtimeconfig.json
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/bin/Debug/net7.0/Search and Sort.dll
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/bin/Debug/net7.0/Search and Sort.pdb
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.csproj.AssemblyReference.cache
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.AssemblyInfoInputs.cache
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.AssemblyInfo.cs
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.csproj.CoreCompileInputs.cache
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.dll
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/refint/Search and Sort.dll
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.pdb
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/Search and Sort.genruntimeconfig.cache
+/Users/aamirhussain/Desktop/ALGORITHMS & COMPLEXITY/Search and Sort/Search and Sort/obj/Debug/net7.0/ref/Search and Sort.dll
